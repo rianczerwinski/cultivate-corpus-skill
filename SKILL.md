@@ -1,6 +1,7 @@
 ---
 name: cultivate-corpus
 description: Cultivates a coherent, revisable corpus of a person's thinking from their conversations, notes, drafts, and publications, preserving attribution, argumentative context, and evolution. Use when the user asks to harvest or consolidate their past thinking into a living corpus; sculpt or sharpen its essays; build a source-grounded topic dossier; integrate a new conversation or paper; reconcile apparently conflicting positions in their corpus; organize intersections and navigation across corpora; or resume an interrupted harvest. Distinguish these tasks from standalone retrieval, ordinary subject explanation, and turning engineering transcripts into implemented changes.
+license: MIT
 ---
 
 # Cultivate corpus
